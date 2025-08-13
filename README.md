@@ -10,7 +10,7 @@ bfs — boyfriends / best friends
 bc / bcos — because  
 btw — by the way  
 brb — be right back  
-
+bs — bullshit
 # C  
 cya — see you  
 cba — can’t be asked / arsed (lazy)  
@@ -19,24 +19,27 @@ cmiiw — correct me if I’m wrong
 # D  
 dm — direct message  
 dw — don’t worry 
-
+dni — do not interact 
+dnf — do not follow
 # F  
 fwiw — for what it’s worth  
 fym — f*** you mean
 fyp — for you page
 fyi — for your information 
+fw — fuck with [in the context of liking something or disliking it]
 
 # G  
 g2g / gtg — got to go  
 gm — good morning  
 gn — good night  
 gws — get well soon  
-
+gtk — good to know
 # H  
 hbu — how about you?  
 hru — how are you?  
 hmu — hit me up  
-hyd — how [are] you doing
+hyd — how you doing
+
 
 # I  
 idc — I don’t care  
@@ -60,13 +63,13 @@ lol — laughing out loud
 lowk / highk — low key / high key  
 
 # M  
-mb — my bad  
+mb — my bad  / maybe
 mf — motherf***er  
 mfw — my face when  
-
+m/w (mw) — matching with  (profile pictures on a social media)
 # N  
 ngl — not gonna lie  
-nm — not much  
+nm — not much, but also not mad
 nvm — never mind  
 
 # O  
@@ -80,6 +83,7 @@ pov — point of view
 pls / plz — please  
 ppl — people  
 pmo — piss me off
+p — pretty // like pretty much – pmuch 
 # R  
 rn — right now  
 rofl — rolling on the floor laughing  
@@ -97,13 +101,12 @@ tfw — that feeling when
 thx / ty / tysm — thanks / thank you / thank you so much  
 ttyl — talk to you later
 tbf — to be fair 
-
+ts — this shit // is widely used as `this`, but the correct meaning is `this shit`
 # U  
-u / ur — you / your(s) 
+u / ur — you / your(s) / you are
 
 # V  
-v — very  
-vibe check — checking the mood/energy  
+`N/A`   
 
 # W  
 wbu — what about you?  
@@ -114,8 +117,13 @@ wyd — what you doing
 wim — what I mean  
 wlw — women loving women 
 wlm — women loving men
-
+wuu2 — what are you up to
+wsp — whats up
 # Y  
 ya — you / yeah  
 ykwim — you know what I mean  
 yolo — you only live once
+y — why
+yk — you know
+yk**h** — you know how
+yk**w** — you know what
