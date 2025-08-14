@@ -50,15 +50,15 @@ ily / ilysm — I love you / I love you so much
 imo — in my opinion  
 istg — I swear to God  
 iykyk — if you know, you know  
-
+imho — in my honest opinion 
 # J  
 jk — just kidding  
 jfc — jesus f***ing christ  
 jsyk — just so you know
-
+js — javascript lmao
 # L  
 lmk — let me know  
-lmfao / lmao — laughing my ass off  
+lmfao / lmao — laughing my / (fucking) / ass off  
 lol — laughing out loud  
 lowk / highk — low key / high key  
 
@@ -71,7 +71,7 @@ m/w (mw) — matching with  (profile pictures on a social media)
 ngl — not gonna lie  
 nm — not much, but also not mad
 nvm — never mind  
-
+ntm — not too much
 # O  
 omg / omfg — oh my god / oh my f***ing god  
 omw — on my way  
@@ -119,6 +119,7 @@ wlw — women loving women
 wlm — women loving men
 wuu2 — what are you up to
 wsp — whats up
+
 # Y  
 ya — you / yeah  
 ykwim — you know what I mean  
