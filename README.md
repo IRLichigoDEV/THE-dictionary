@@ -51,6 +51,7 @@ imo — in my opinion
 istg — I swear to God  
 iykyk — if you know, you know  
 imho — in my honest opinion 
+iktr — i know thats right 
 # J  
 jk — just kidding  
 jfc — jesus f***ing christ  
@@ -102,7 +103,8 @@ thx / ty / tysm — thanks / thank you / thank you so much
 ttyl — talk to you later
 tbf — to be fair 
 ts — this shit // is widely used as `this`, but the correct meaning is `this shit`
-# U  
+tc — take care
+#U  
 u / ur — you / your(s) / you are
 
 # V  
